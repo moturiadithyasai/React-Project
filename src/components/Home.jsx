@@ -31,7 +31,7 @@ const Home = () => {
       <div className="home3" id="about">
         <div>
           <p>
-            LFull-stack web services refer to a comprehensive approach to building web applications, where developers work on both the front-end (client-side) and back-end (server-side) components of the application. A full-stack web developer is proficient in working with both the front-end technologies like HTML, CSS, and JavaScript, as well as the back-end technologies like server-side scripting, databases, and server management.
+            Full-stack web services refer to a comprehensive approach to building web applications, where developers work on both the front-end (client-side) and back-end (server-side) components of the application. A full-stack web developer is proficient in working with both the front-end technologies like HTML, CSS, and JavaScript, as well as the back-end technologies like server-side scripting, databases, and server management.
           </p>
         </div>
       </div>
